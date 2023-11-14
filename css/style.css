@@ -1,4 +1,8 @@
 h1 {
-    color: blue;
+    color: rgb(13, 13, 13);
     size: 50px;
+}
+
+body {
+    background-color: rgb(249, 248, 248);
 }
